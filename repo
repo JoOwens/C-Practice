@@ -1,0 +1,9 @@
+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
+
+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
+
+git clone https://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@github.com/JoOwens/alx-low_level_programming
+
+git config --global user.email "owinpojose@gmail.com"
+git config --global user.name "JoOwens"
+
